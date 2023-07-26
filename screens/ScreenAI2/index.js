@@ -13,7 +13,7 @@ const AppInfoScreen = () => {
       </View>
       <View style={styles.buttonContainer}>
         <TouchableOpacity style={styles.button} onPress={() => {
-        navigation.navigate("ScreenAI7");
+        navigation.navigate("ScreenAI18");
       }}>
           <Text style={styles.buttonText}>Log In</Text>
         </TouchableOpacity>
