@@ -6,7 +6,7 @@ const Screen = () => {
   const navigation = useNavigation();
   return <SafeAreaView style={styles.container}>
       <TouchableOpacity style={styles.button} onPress={() => {
-      navigation.navigate("ScreenAI7");
+      navigation.navigate("ScreenAI18");
     }}>
         <Text style={styles.buttonText}>Edit Profile</Text>
       </TouchableOpacity>
